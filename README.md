@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @SMonasterio
-- 👀 I’m interested in becoming a full stack developer
-- 🌱 I’m currently learning React!
+<h1>Welcome to my GitHub profile! 👋👋👋</h1>
+
+*Hi! My name is Sofía Monasterio, a 28yo argentian girl who is looking for professional development in the IT world.
+I'm finishing the Certified Tech Developer carreer in Digital House.*
+
+*Here you can see some of the proyects i've been working in the course and on my own:*
+ - --agregar links github pages
+ - 
+ - 
+ 
+ 
+ *You can reach me by email: sofimonasterio93@gmail.com , or at my LinkedIn profile: https://www.linkedin.com/in/sofiamonasterio/*
+
+
+
 
 <!---
 SMonasterio/SMonasterio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
